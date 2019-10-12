@@ -1,4 +1,3 @@
 # hacknight
 hello
-chethan
-gg
+ganpat
