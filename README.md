@@ -1,3 +1,4 @@
 # hacknight
 hello
-ganpat
+ganpa
+hello eveyone this is me
