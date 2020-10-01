@@ -1,3 +1,2 @@
 # hacknight
-hello
-ganpat
+Hacknight is a opensource contribution project
